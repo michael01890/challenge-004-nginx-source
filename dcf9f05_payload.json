@@ -1,9 +1,0 @@
-{
-  "ref": "refs/heads/main",
-  "before": "59aa0b2", 
-  "after": "dcf9f05",
-  "repository": {
-    "clone_url": "https://github.com/michael01890/challenge-004-nginx-source.git",
-    "name": "challenge-004-nginx-source"
-  }
-}
